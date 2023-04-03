@@ -1,6 +1,6 @@
 {
-    "token": "MTA4NzIxNDIxMzg5NTgxNTI1OQ.GuArBj.BiZ330HAndosjnVyA8CwmvIP7ITpm6EidkrnxU",
-    "mongodb": "mongodb+srv://phguyn1002:phuonguyen10022003@cluster1.ohrpfef.mongodb.net/?retryWrites=true&w=majority",
+    "token": "",
+    "mongodb": "",
 
     "everyone": "933249769395081246",
     "supporter": "936608835890716683",
@@ -9,5 +9,5 @@
     "transcripts": "998979722052644904",
 
     "owner": "© Oreooo🐰#1002",
-    "guildAvatar": "https://media.discordapp.net/attachments/942019690497200168/959523874020655194/20220208_171242_0000.png?width=696&height=896"
+    "guildAvatar": ""
 }
